@@ -17,3 +17,24 @@ C:\Users\debski.piotr1\documents\visual studio 2015\Projects\PotwierdzeniaPrzesy
 C:\Users\debski.piotr1\documents\visual studio 2015\Projects\PotwierdzeniaPrzesylek\PotwierdzeniaPrzesylek\bin\Debug\WebDriver.xml
 C:\Users\debski.piotr1\documents\visual studio 2015\Projects\PotwierdzeniaPrzesylek\PotwierdzeniaPrzesylek\bin\Debug\WebDriver.Support.dll
 C:\Users\debski.piotr1\documents\visual studio 2015\Projects\PotwierdzeniaPrzesylek\PotwierdzeniaPrzesylek\bin\Debug\WebDriver.Support.xml
+D:\Projekty\Tools\PotwierdzeniaPrzesylek\PotwierdzeniaPrzesylek\bin\Debug\PotwierdzeniaPrzesylek.exe.config
+D:\Projekty\Tools\PotwierdzeniaPrzesylek\PotwierdzeniaPrzesylek\obj\Debug\PotwierdzeniaPrzesylek.exe
+D:\Projekty\Tools\PotwierdzeniaPrzesylek\PotwierdzeniaPrzesylek\obj\Debug\PotwierdzeniaPrzesylek.pdb
+D:\Projekty\Tools\PotwierdzeniaPrzesylek\PotwierdzeniaPrzesylek\bin\Debug\PotwierdzeniaPrzesylek.exe
+D:\Projekty\Tools\PotwierdzeniaPrzesylek\PotwierdzeniaPrzesylek\bin\Debug\PotwierdzeniaPrzesylek.pdb
+D:\Projekty\Tools\PotwierdzeniaPrzesylek\PotwierdzeniaPrzesylek\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Projekty\Tools\PotwierdzeniaPrzesylek\PotwierdzeniaPrzesylek\bin\Debug\NPOI.dll
+D:\Projekty\Tools\PotwierdzeniaPrzesylek\PotwierdzeniaPrzesylek\bin\Debug\NPOI.OOXML.dll
+D:\Projekty\Tools\PotwierdzeniaPrzesylek\PotwierdzeniaPrzesylek\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Projekty\Tools\PotwierdzeniaPrzesylek\PotwierdzeniaPrzesylek\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Projekty\Tools\PotwierdzeniaPrzesylek\PotwierdzeniaPrzesylek\bin\Debug\WebDriver.dll
+D:\Projekty\Tools\PotwierdzeniaPrzesylek\PotwierdzeniaPrzesylek\bin\Debug\WebDriver.Support.dll
+D:\Projekty\Tools\PotwierdzeniaPrzesylek\PotwierdzeniaPrzesylek\bin\Debug\NPOI.xml
+D:\Projekty\Tools\PotwierdzeniaPrzesylek\PotwierdzeniaPrzesylek\bin\Debug\WebDriver.xml
+D:\Projekty\Tools\PotwierdzeniaPrzesylek\PotwierdzeniaPrzesylek\bin\Debug\WebDriver.Support.xml
+D:\Projekty\Tools\PotwierdzeniaPrzesylek\PotwierdzeniaPrzesylek\obj\Debug\PotwierdzeniaPrzesylek.csprojResolveAssemblyReference.cache
+D:\Projekty\Tools\PotwierdzeniaPrzesylek\PotwierdzeniaPrzesylek\obj\Debug\PotwierdzeniaPrzesylek.Form1.resources
+D:\Projekty\Tools\PotwierdzeniaPrzesylek\PotwierdzeniaPrzesylek\obj\Debug\PotwierdzeniaPrzesylek.Properties.Resources.resources
+D:\Projekty\Tools\PotwierdzeniaPrzesylek\PotwierdzeniaPrzesylek\obj\Debug\PotwierdzeniaPrzesylek.csproj.GenerateResource.Cache
+D:\Projekty\Tools\PotwierdzeniaPrzesylek\PotwierdzeniaPrzesylek\bin\Debug\GemBox.Document.dll
+D:\Projekty\Tools\PotwierdzeniaPrzesylek\PotwierdzeniaPrzesylek\bin\Debug\GemBox.Document.xml
